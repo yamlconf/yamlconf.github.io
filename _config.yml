@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: YAML Conf
 description: YAML Conf is the place to be to talk about YAML.
+tags:
+  - best team
+plugins:
+  - jekyll-seo-tag
