@@ -8,7 +8,7 @@ reasons:
 when: 2020-12-12T12:12:12
 where:
   city: Boulder
-  states: CO
+  state: CO
   country: USA
 links:
   - https://onlineyamltools.com/edit-yaml
